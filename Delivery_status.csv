@@ -1,0 +1,10 @@
+OrderID,Full_Name,Order_Date,Total_Amount,Delivery_Status
+9,"Curtis Jones",2024-10-09,454.99,Delivered
+8,"Wataro Endo",2024-10-08,402.99,Shipped
+7,"Harvey Eliot",2024-10-07,376.99,Shipped
+6,"Alexis Mac-Alister",2024-10-06,311.99,Shipped
+5,"Diego Jota",2024-10-05,363.99,Delivered
+4,"Darwin Nunez",2024-10-04,337.99,Shipped
+3,"Luiz Diaz",2024-10-03,389.99,Returned
+2,"Cody Cakpo",2024-10-02,350.99,Delivered
+1,"Mohamed Salah",2024-10-01,324.99,Shipped
